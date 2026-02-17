@@ -28,7 +28,7 @@ A bash script that scans a WordPress installation for common security issues. Ch
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/wp-security-audit.git
+git clone https://github.com/alanpinnt/wordpress-security-audit-bash.git
 cd wp-security-audit
 chmod +x wp-security-audit.sh
 ./wp-security-audit.sh --path /var/www/html
