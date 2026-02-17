@@ -1,4 +1,4 @@
-# wp-security-audit
+# wordpress-security-audit-bash
 
 A bash script that scans a WordPress installation for common security issues. Checks file permissions, exposed sensitive files, debug settings, plugin/theme status, SSL configuration, and more.
 
@@ -29,7 +29,7 @@ A bash script that scans a WordPress installation for common security issues. Ch
 
 ```bash
 git clone https://github.com/alanpinnt/wordpress-security-audit-bash.git
-cd wp-security-audit
+cd wordpress-security-audit-bash
 chmod +x wp-security-audit.sh
 ./wp-security-audit.sh --path /var/www/html
 ```
